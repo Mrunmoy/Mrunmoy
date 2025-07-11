@@ -3,17 +3,9 @@
   <img src="./assets/header.png" alt="Header Banner" width="100%"/>
 </p>
 
-<!-- ✨ Animated Hero Banner -->
 <!-- 🧙‍♂️✨ Typing Spell -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-      font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true
-      &width=900&height=70
-      &lines=Hey+there+👋+I'm+Mrunmoy;
-      I+brew+embedded+AI%2C+robotics%2C+and+smart+potions;
-      Open+source+is+my+arcane+playground+🎮"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=900&height=70&lines=Hey+there+👋+I'm+Mrunmoy;I+brew+embedded+AI%2C+robotics%2C+and+smart+potions;Open+source+is+my+arcane+playground+🎮" />
 </p>
 
 ---
