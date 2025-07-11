@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=900&height=70&lines=Hey+there+👋+I'm+Mrunmoy;I+brew+embedded+AI%2C+robotics%2C+and+smart+potions;Open+source+is+my+arcane+playground+🎮" />
 </p>
 
+
 ---
 
 <p align="center">
@@ -48,6 +49,14 @@
 </p>
 
 
----
+<p align="center">
+    *May your commits be clean, your bugs be few, and your ideas forever arcane.*
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mrunmoy&label=Arcane+Visitors&style=flat-square&color=blueviolet"/>
+</p>
+
 ---
 
