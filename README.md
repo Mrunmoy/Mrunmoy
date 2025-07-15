@@ -28,11 +28,13 @@
 
 | Project | Description |
 | ------- | ----------- |
+| [**Voice Clone Lab**](https://github.com/Mrunmoy/VoiceCloneLab) | 🧙‍♂️ Local voice cloning lab — train your own TTS models and summon speech from text. |
 | [**Chat With My Camera**](https://github.com/Mrunmoy/chat-with-my-camera) | 🦁 Real-time webcam detection with YOLOv8 & OpenCV, ZeroMQ streaming and chat. |
 | [**Chat With My PDF**](https://github.com/Mrunmoy/chat-with-my-pdf) | 📚 Local LLM that reads PDFs & answers your questions — your AI study buddy. |
 | [**FPGA**](https://github.com/Mrunmoy/fpga) | 🔧 FPGA playground for fast ideas. |
 | [**Yocto QEMU ARM Lab**](https://github.com/Mrunmoy/yocto-qemuarm-lab) | 🐧 DIY embedded Linux lab with QEMU ARM & Yocto recipes. |
 | [**PyZMQ Playground**](https://github.com/Mrunmoy/pyzmq-playground) | 📡 Fun with ZeroMQ pub/sub patterns for smart edge systems. |
+
 
 </div>
 
