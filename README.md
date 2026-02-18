@@ -33,6 +33,8 @@
 | [**FPGA**](https://github.com/Mrunmoy/fpga) | 🔧 FPGA playground for fast ideas. |
 | [**Yocto QEMU ARM Lab**](https://github.com/Mrunmoy/yocto-qemuarm-lab) | 🐧 DIY embedded Linux lab with QEMU ARM & Yocto recipes. |
 | [**PyZMQ Playground**](https://github.com/Mrunmoy/pyzmq-playground) | 📡 Fun with ZeroMQ pub/sub patterns for smart edge systems. |
+| [**ms-ringbuffer**](https://github.com/Mrunmoy/ms-ringbuffer) | 🔁 Lock-free, SPSC ring buffer — header-only C++17 with cache-friendly design. |
+| [**ms-runloop**](https://github.com/Mrunmoy/ms-runloop) | 🔄 Epoll-based event loop in C++17 — thread-safe posting & FD monitoring. |
 
 
 </div>
